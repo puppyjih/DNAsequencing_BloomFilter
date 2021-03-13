@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Home\iCloudDrive\2020\2020-1\컴퓨터알고리즘\팀프로젝트\2018112053_황종익_bloomfilter_kmers\bloomfilter_kmers\main.cpp(100,61): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Home\iCloudDrive\2020\2020-1\컴퓨터알고리즘\팀프로젝트\2018112053_황종익_bloomfilter_kmers\bloomfilter_kmers\main.cpp(102,30): warning C4244: 'return': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Home\iCloudDrive\2020\2020-1\컴퓨터알고리즘\팀프로젝트\2018112053_황종익_bloomfilter_kmers\bloomfilter_kmers\main.cpp(139,63): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Home\iCloudDrive\2020\2020-1\컴퓨터알고리즘\팀프로젝트\2018112053_황종익_bloomfilter_kmers\bloomfilter_kmers\main.cpp(156,16): warning C4244: '인수': 'uint64_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Home\iCloudDrive\2020\2020-1\컴퓨터알고리즘\팀프로젝트\2018112053_황종익_bloomfilter_kmers\bloomfilter_kmers\main.cpp(167,20): warning C4244: '인수': 'uint64_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Home\iCloudDrive\2020\2020-1\컴퓨터알고리즘\팀프로젝트\2018112053_황종익_bloomfilter_kmers\bloomfilter_kmers\main.cpp(202,37): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Home\iCloudDrive\2020\2020-1\컴퓨터알고리즘\팀프로젝트\2018112053_황종익_bloomfilter_kmers\bloomfilter_kmers\main.cpp(564,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Home\iCloudDrive\2020\2020-1\컴퓨터알고리즘\팀프로젝트\2018112053_황종익_bloomfilter_kmers\bloomfilter_kmers\main.cpp(567,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Home\iCloudDrive\2020\2020-1\컴퓨터알고리즘\팀프로젝트\2018112053_황종익_bloomfilter_kmers\bloomfilter_kmers\main.cpp(577,55): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  0 of 751 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  bloomfilter_kmers.vcxproj -> C:\Users\Home\iCloudDrive\2020\2020-1\컴퓨터알고리즘\팀프로젝트\2018112053_황종익_bloomfilter_kmers\Release\bloomfilter_kmers.exe

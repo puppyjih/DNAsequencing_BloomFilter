@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(42,21): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(121,61): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(123,30): warning C4244: 'return': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(159,73): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(174,16): warning C4244: '인수': 'uint64_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(194,20): warning C4244: '인수': 'uint64_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(225,37): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(286,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(303,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(319,23): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(329,20): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(481,23): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(493,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Home\source\repos\bloomfilter_kmers\bloomfilter_kmers\main.cpp(197): warning C4715: 'BloomFilter::contains': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  bloomfilter_kmers.vcxproj -> C:\Users\Home\source\repos\bloomfilter_kmers\Debug\bloomfilter_kmers.exe
